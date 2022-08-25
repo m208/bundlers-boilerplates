@@ -8,3 +8,10 @@ Installation by npm
 ```
 
 Over installation methods look via link above
+
+# examples
+
+- [ ] React table
+- [ ] Icon component for svg usage
+- [ ] Image lazyloading
+- [ ] React-location
